@@ -3,6 +3,8 @@
 
 #pragma once
 
+#define PRODUCT Numpad_like
+
 /*
  * Feature disable options
  *  These options are also useful to firmware size reduction.
