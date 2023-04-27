@@ -3,6 +3,8 @@
 
 #pragma once
 
+#define VENDOR_ID   0x5741
+#define PRODUCT_ID  0x0002
 #define PRODUCT Numpad_like
 
 /*
